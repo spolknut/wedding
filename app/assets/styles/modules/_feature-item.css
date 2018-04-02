@@ -11,6 +11,10 @@
     @mixin atSmall{
       position: absolute;
       left: 0;
+
+      &--wide {
+        left: -10px;
+      }
     }
   }
 

@@ -24,6 +24,8 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    color: $mainBlue;
+    background-color: $mainBlue;
 
     @mixin atSmall{
       position: relative;
