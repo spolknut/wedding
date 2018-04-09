@@ -16,7 +16,6 @@ node_modules/
 ./temp/
 app/temp*
 app/assets/images/sprites/
-docs/
 # OS or Editor folders
 .DS_Store
 Thumbs.db
