@@ -2,12 +2,18 @@
 Instead edit gulp/templates/sprite */
 
     .icon {
-      background-image: url('../../assets/images/sprites/sprite-90aec526.svg');
+      background-image: url('../../assets/images/sprites/sprite-767b15f2.svg');
     }
 
     .no-svg .icon{
-      background-image: url('../../assets/images/sprites/sprite-90aec526.png');
+      background-image: url('../../assets/images/sprites/sprite-767b15f2.png');
     }
+
+  .icon--baby-orange {
+    height: 97.46px;
+    width: 65.64px;
+    background-position: 41.617500415489445% 42.109629799164615%;
+  }
 
   .icon--car-orange {
     height: 24.68px;
@@ -18,67 +24,67 @@ Instead edit gulp/templates/sprite */
   .icon--comment {
     height: 66px;
     width: 66px;
-    background-position: 69.49064449064448% 69.98425196850394%;
+    background-position: 44.54261954261954% 69.98425196850394%;
   }
 
   .icon--dress {
     height: 90.34px;
     width: 69.81px;
-    background-position: 41.98118150003143% 41.268995682162284%;
+    background-position: 0 99.94672797622387%;
   }
 
   .icon--dress-orange {
     height: 90.34px;
     width: 69.81px;
-    background-position: 0 99.94672797622387%;
+    background-position: 14.629392904293887% 99.94672797622387%;
   }
 
   .icon--facebook {
     height: 44.01px;
     width: 23.23px;
-    background-position: 91.92966378372186% 41.84222933571552%;
+    background-position: 91.92966378372186% 54.84751482667063%;
   }
 
   .icon--fire {
     height: 66px;
     width: 58px;
-    background-position: 56.49284253578732% 69.98425196850394%;
+    background-position: 69.98977505112474% 69.98425196850394%;
   }
 
   .icon--gift-oranget {
     height: 60.91px;
     width: 64.91px;
-    background-position: 99.87761621274035% 0;
+    background-position: 99.87761621274035% 13.574555155533682%;
   }
 
   .icon--gift2-orange {
     height: 63.65px;
     width: 64.55px;
-    background-position: 99.80308840294332% 15.888874396765358%;
+    background-position: 99.80308840294332% 29.560453893308985%;
   }
 
   .icon--globe {
     height: 66px;
     width: 66px;
-    background-position: 29.097713097713097% 93.56167979002625%;
+    background-position: 57.33264033264033% 93.56167979002625%;
   }
 
   .icon--home {
     height: 52.41px;
     width: 65.35px;
-    background-position: 83.72262015986715% 90.33933956765249%;
+    background-position: 99.9688570538773% 0;
   }
 
   .icon--info-orange {
     height: 65.45px;
     width: 65.43px;
-    background-position: 70.14971862865214% 93.42681168916262%;
+    background-position: 84.64605353323505% 93.42681168916262%;
   }
 
   .icon--instagram {
     height: 68.73px;
     width: 70.15px;
-    background-position: 14.639823843976092% 94.23692071800566%;
+    background-position: 29.279647687952185% 94.23692071800566%;
   }
 
   .icon--mail {
@@ -132,19 +138,19 @@ Instead edit gulp/templates/sprite */
   .icon--star {
     height: 66px;
     width: 66px;
-    background-position: 42.81912681912682% 93.56167979002625%;
+    background-position: 43.61122661122661% 93.56167979002625%;
   }
 
   .icon--transport-orange {
     height: 65.86px;
     width: 65.86px;
-    background-position: 56.524088622854066% 93.52731279844677%;
+    background-position: 71.03337905807042% 93.52731279844677%;
   }
 
   .icon--twitter {
     height: 44.06px;
     width: 53.78px;
-    background-position: 97.62377843558654% 30.912790986251053%;
+    background-position: 97.62377843558654% 43.91969027646796%;
   }
 
   .icon--wedding-date {
@@ -156,11 +162,11 @@ Instead edit gulp/templates/sprite */
   .icon--wifi {
     height: 66px;
     width: 62px;
-    background-position: 44.175257731958766% 69.98425196850394%;
+    background-position: 57.78350515463917% 69.98425196850394%;
   }
 
   .icon--youtube {
     height: 44px;
     width: 36.75px;
-    background-position: 98.91817736403723% 41.84119106699752%;
+    background-position: 98.91817736403723% 54.84615384615385%;
   }
